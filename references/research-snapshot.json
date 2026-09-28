@@ -1,0 +1,30 @@
+[
+  {
+    "repo": "tjboudreaux/cc-thinking-skills",
+    "stars": 1333,
+    "commit": "7b8fece345dfaa11773be7152ccd194589cb5437",
+    "collected_at": "2026-09-28T07:12:44.386471+00:00",
+    "license": "MIT"
+  },
+  {
+    "repo": "obra/superpowers",
+    "stars": 292257,
+    "commit": "8ca22dba9a94f28898bbce59f2537ff4d87c747d",
+    "collected_at": "2026-09-28T07:12:44.246039+00:00",
+    "license": "MIT"
+  },
+  {
+    "repo": "alirezarezvani/claude-skills",
+    "stars": 26682,
+    "commit": "19392f7a08264ed00486a251f5b2098321771f94",
+    "collected_at": "2026-09-28T07:12:45.547389+00:00",
+    "license": "MIT"
+  },
+  {
+    "repo": "karpathy/llm-council",
+    "stars": 25036,
+    "commit": "92e1fccb1bdcf1bab7221aa9ed90f9dc72529131",
+    "collected_at": "2026-09-28T07:12:43.828021+00:00",
+    "license": null
+  }
+]

@@ -1,4 +1,4 @@
 interface:
   display_name: "Decision Assistant"
   short_description: "实践校准型决策：先守住风险，用最小行动获取真实反馈"
-  default_prompt: "使用 $decision-assistant 给我一个明确结论，并设计能验证它的最小可逆行动。"
+  default_prompt: "使用 $decision-assistant 给我证据支持的明确建议和下一步；必要时说明条件或先问一个关键问题。"
